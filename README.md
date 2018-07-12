@@ -33,7 +33,7 @@ Look for the following code in the web.config file and replace the values with t
 1. You must publish this project to a live domain so that Mastercard can return a result to your website after they have attempted to process your payment.
 2. All payment amounts are in cents (eg: $5.00 = 500 cents).
 
-## Test Mode
+## Test Mode:
 
 To use MIGS test mode, log into your banks MIGS portal using the word TEST in-front of your Merchant ID. Update your web.config file to use the values found in the test portal.
 
