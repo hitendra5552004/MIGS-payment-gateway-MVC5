@@ -28,7 +28,7 @@ Look for the following code in the web.config file and replace the values with t
 <add key="MigsAccessCode" value="" />
 <add key="MigsSecureHashSecret" value="" />
 ```
-## Important Notes
+## Important Notes:
 
 1. You must publish this project to a live domain so that Mastercard can return a result to your website after they have attempted to process your payment.
 2. All payment amounts are in cents (eg: $5.00 = 500 cents).
