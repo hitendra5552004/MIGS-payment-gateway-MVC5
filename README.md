@@ -41,7 +41,7 @@ Live merchant id example: BBL1234567
 
 Test merchant id example: TESTBBL1234567
 
-## Test Card Numbers
+## Test Card Numbers:
 
 You can do transactions against MIGS in test mode using the following test card numbers.
 
